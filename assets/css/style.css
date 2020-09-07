@@ -69,7 +69,8 @@ a:hover,a:active,a:focus{
     font-weight: 300;
     text-align: center;
     overflow: hidden;
-    margin-bottom: 50px;
+	margin-bottom: 40px;
+	height: 70px;
 }
 .block_title:before,.block_title:after {
     content: "";
@@ -387,17 +388,18 @@ header{
 	left: 0;
 	padding: 20px;
 	background: #111;
-	color: #e66f69;
+	color: #3498DB;
 }
 
-.port figcaption h3 {
+.port figcaption h3, 
+.port figcaption h4 {
 	margin: 0px 0px 8px 0px;
 	padding: 0;
 	color: #fff;
 }
 
 .port figcaption span:before {
-	content: 'by ';
+	content: 'Using ';
 }
 
 .port figcaption a {
