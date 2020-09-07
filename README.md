@@ -1,7 +1,3 @@
-#DarkJoe
-
-A Multipurpose One page Responsive Template for agencies or personal site.
-
 #Features
 
 - Unique Mordern Design
@@ -26,16 +22,7 @@ A Multipurpose One page Responsive Template for agencies or personal site.
 - Easy to use
 - It's Free!
 
-#Screenshot
 
-#Demo Link
-Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/DarkJoe/)
-
-![Screenshot of Flusk]
-(https://github.com/technext/DarkJoe/blob/master/darkjoe.jpg)
-
-#Demo Link
-Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/DarkJoe/)
 
 
 
