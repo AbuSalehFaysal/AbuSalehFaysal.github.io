@@ -20,7 +20,7 @@
 - stylish UI
 - Well commented coding
 - Easy to use
-- It's Free!
+
 
 
 
