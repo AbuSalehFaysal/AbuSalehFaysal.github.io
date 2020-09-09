@@ -191,7 +191,7 @@ a:hover,a:active,a:focus{
     border-radius: 15px;
 }
 header{
-	background: url(../images/bg-small.jpg) no-repeat;
+	background: url(../images/code5.jpeg) no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: 50% -50px;
@@ -204,7 +204,7 @@ header{
 	font-family: 'Raleway', sans-serif;
 	font-weight: 400;
 	font-size: 8em;
-	margin: 50px 0px 0px 0px;
+	margin: 65px 0px 0px 0px;
 	color: #BDC3C7;
 }
 .subheadline {
@@ -496,7 +496,7 @@ header{
 /////////////////////////////////////////////////////////////////////*/
 
 #testimonial {
-    background: url(../images/parallax.jpg);
+    background: url(../images/code7.jpeg);
     padding: 80px 0px 80px 0px;
     color: #fff;
     background-attachment: fixed;
@@ -535,15 +535,12 @@ header{
 }
 
 .mapWrap {
-    position: relative;
-    min-height: 600px;
+    background: url(../images/code.jpeg) no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 50% -50px;
 }
-#googleMap {
-    position: absolute !important;
-    top: 0;
-    left: 0;
-    height: 100%;
-}
+
 #contact-area {
     background: rgba(0, 0, 0, 0.7);
     width: 100%;
