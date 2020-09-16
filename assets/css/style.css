@@ -305,8 +305,25 @@ header{
 /* ///////////////////////////////////////////////////////////////////// 
 //  04 - Services
 /////////////////////////////////////////////////////////////////////*/
+#skills {
+    background: url(../images/bg-small.jpg);
+    padding: 0px 0px 0px 0px;
+    color: #fff;
+    background-attachment: fixed;
+    background-size: cover;
+}
 
+.skill-area {
+    margin: 0px 0px 40px 0px;
+}
 
+#services {
+    background: url(../images/laptop2.jpeg);
+    padding: 80px 0px 80px 0px;
+    color: #fff;
+    background-attachment: fixed;
+    background-size: cover;
+}
 
 .services {
     max-width: 293px;
@@ -316,11 +333,7 @@ header{
 	padding-top: 76px;
 }
 .service-area {
-    margin: 80px 0px 40px 0px;
-}
-
-.skill-area {
-    margin: 80px 0px 40px 0px;
+    margin: 0px 0px 0px 0px;
 }
 
 .service-wrap {
@@ -356,7 +369,11 @@ header{
 
 
 #portfolio {
-    padding: 80px 0px 0px 0px;
+	background: url(../images/code9.jpeg);
+    padding: 0px 0px 0px 0px;
+    color: #fff;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .port {
@@ -496,7 +513,7 @@ header{
 /////////////////////////////////////////////////////////////////////*/
 
 #testimonial {
-    background: url(../images/code9.jpeg);
+    background: url(../images/laptop.jpeg);
     padding: 80px 0px 80px 0px;
     color: #fff;
     background-attachment: fixed;
