@@ -415,9 +415,9 @@ header{
 	color: #fff;
 }
 
-.port figcaption span:before {
-	content: 'Using ';
-}
+/* .port figcaption span:before {
+	content: 'Using';
+} */
 
 .port figcaption a {
 	text-align: center;
