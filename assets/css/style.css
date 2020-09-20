@@ -854,13 +854,13 @@ footer {
 	}
 
 	.profile-img {
-		height: 150px;
-		width: 150px;;
+		height: 250px;
+		width: 180px;;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		margin-top: 40px;
-		border-radius: 50%;
+		border-radius: 10%;
 	}
 
 	.bigheadline {
@@ -877,7 +877,7 @@ footer {
 	
 }
 
-@media all and (max-width: 480px) {
+@media all and (max-width: 480px) and (min-width: 390px) {
 
 	.scrollDown {
 	    top: 70%;
@@ -890,13 +890,13 @@ footer {
 		font-size: 2em;
 	}
 	.profile-img {
-		height: 150px;
-		width: 150px;;
+		height: 250px;
+		width: 180px;;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		margin-top: 40px;
-		border-radius: 50%;
+		border-radius: 10%;
 	}
 }
 
