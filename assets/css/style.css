@@ -883,5 +883,11 @@ footer {
 	    top: 70%;
 	    left: 44%;
 	}
+	.logo-text {
+	    font-size: 1.3em;
+	}
+	.block_title {
+		font-size: 2em;
+	}
 }
 
