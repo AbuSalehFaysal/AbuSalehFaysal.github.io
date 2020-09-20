@@ -889,5 +889,14 @@ footer {
 	.block_title {
 		font-size: 2em;
 	}
+	.profile-img {
+		height: 150px;
+		width: 150px;;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 40px;
+		border-radius: 50%;
+	}
 }
 
