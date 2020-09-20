@@ -1,25 +1,4 @@
-#Features
-
-- Unique Mordern Design
-- Full Screen Header Background with centered headline
-- Optimized Code & Content
-- Simple Tooltip Menu
-- Showcase your work more with the power of CSS3 animations.
-- Clean Code
-- Cross-browser Compatibility
-- Smooth CSS3 animation
-- SEO Optimized
-- 100% Fully Customizable
-- Sticky Header
-- Google Fonts
-- Built with HTML5 & CSS3
-- Strong focus on Usability and UX
-- Responsive layout
-- CSS Framework - Bootstrap 3
-- FontAwesome Icon Integrated
-- stylish UI
-- Well commented coding
-- Easy to use
+I'm Abu Saleh Faysal. Experienced web developer with a demonstrated history of working in several tech startups. Skilled in Fullstack Web Development, Digital Marketing, and Content Writing. Strong software professional with a Bachelor of Science focused on Computer Science and Engineering from BRAC University. This is my portfolio.
 
 
 
