@@ -424,7 +424,7 @@ header{
 
 .port figcaption a {
 	text-align: center;
-	padding: 8px 8px;
+	padding: 8px 7px;
 	display: inline-block;
 	color: #fff;
 }
@@ -884,6 +884,9 @@ footer {
 	.block_title {
 		font-size: 2em;
 	}
+	.port figcaption h3, .port figcaption h4 {
+		font-size: 16px;
+	}
 	
 }
 
@@ -908,5 +911,6 @@ footer {
 		margin-top: 40px;
 		border-radius: 10%;
 	}
+	
 }
 
