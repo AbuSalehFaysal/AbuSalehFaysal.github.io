@@ -662,22 +662,33 @@ header{
 .social-icons a:hover {
     display: block;
     width: 50px;
-    height: 50px;
-	background-size: 110%;
-	background-color: #3498DB;
+	height: 50px;
+	border-radius: 50%;
 }
 
 .facebook{
 	background-image: url(../images/facebook.png);
 }
+.facebook:hover{
+	background-color: #1877f2;
+}
 .twitter{
 	background-image: url(../images/twitter.png);
+}
+.twitter:hover{
+	background-color: #00acee;
 }
 .linkedin{
 	background-image: url(../images/linkedin.png);
 }
+.linkedin:hover{
+	background-color: #0e76a8;
+}
 .github {
 	background-image: url(../images/github.png);
+}
+.github:hover{
+	background-color: #333;
 }
 
 
