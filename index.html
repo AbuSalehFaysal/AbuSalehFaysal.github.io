@@ -55,10 +55,19 @@
         <ol class="carousel-indicators">
           <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
           <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="2"></li>
         </ol>
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
+            <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <img class="profile-img" src="assets/images/faysal1.jpg" alt="" />
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
             <div class="row">
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <img class="profile-img" src="assets/images/faysal5.jpg" alt="" />
@@ -86,16 +95,16 @@
         </h1>
         <br />
         <h4 class="subheadline" style="color: #fff">
-          Full Stack JavaScript Developer
+          Full Stack Developer
         </h4>
       </div>
     </div>
     <br />
-    <div class="bottom">
+    <!-- <div class="bottom">
       <br />
       <a data-scroll href="#navigation" class="scrollDown animated pulse" id="scrollToContent"><i
           class="pe-7s-angle-down-circle pe-va"></i></a>
-    </div>
+    </div> -->
   </header>
 
   <!-- Navigation area -->
@@ -444,11 +453,91 @@
   <!-- Portfolio Area -->
   <section id="portfolio" class="portfolio-area">
 
-    <!-- React Project Start Area -->
+    <!-- MERN Stack Project Start Area -->
     <div class="container">
       <h2 class="block_title">My Projects</h2>
+      <h2 class="block_title">MERN (MongoDB, Express.js, React, Node.js) Stack</h2>
+      <div class="row port cs-style-3">
+
+        <div class="col-md-4 col-sm-6 col-xs-12 item-space">
+          <figure>
+            <img class="project-img" src="assets/images/groceries.png" alt="blog" />
+            <figcaption>
+              <h4>Daily Groceries</h4>
+              <span>MERN Stack, Firebase</span>
+              <a href="https://daily-groceries-84325.web.app/" target="_blank" class="button">Take a
+                look</a>
+            </figcaption>
+          </figure>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12 item-space">
+          <figure>
+            <img class="project-img" src="assets/images/travel.jfif" alt="blog" />
+            <figcaption>
+              <h4>Explore Travels</h4>
+              <span>MERN Stack, Firebase</span>
+              <a href="https://explore-travels.web.app/" target="_blank" class="button">Take a
+                look</a>
+            </figcaption>
+          </figure>
+        </div>
+
+        <!-- <div class="col-xs-12">
+          <div class="btn-center">
+            <a data-toggle="collapse" href="#collapseFive" role="button" aria-expanded="false"
+              aria-controls="collapseExample" class="big button" id="fifth-more">View More</a>
+          </div>
+        </div>
+
+        <div class="collapse" id="collapseFive">
+
+          <div class="col-md-4 col-sm-6 col-xs-12 item-space">
+            <figure>
+              <img class="project-img" src="assets/images/amazon.jpg" alt="blog" />
+              <figcaption>
+                <h4>Simple Amazon Clone</h4>
+                <span>React</span>
+                <a href="https://simple-amazon-clone-emajohn-by-abusalehfaysal.netlify.app/" target="_blank" class="button">Take a
+                  look</a>
+              </figcaption>
+            </figure>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12 item-space">
+            <figure>
+              <img class="project-img" src="assets/images/country-spa.png" alt="blog" />
+              <figcaption>
+                <h4>Country Information SPA</h4>
+                <span>React</span>
+                <a href="https://react-country-spa-by-abusalehfaysal.netlify.app/" target="_blank" class="button">Take a
+                  look</a>
+              </figcaption>
+            </figure>
+          </div>
+
+        </div> -->
+
+      </div>
+    </div>
+    <!-- MERN Stack Project End Area -->
+
+    <!-- React Project Start Area -->
+    <div class="container">
       <h2 class="block_title">React, React-Bootstrap</h2>
       <div class="row port cs-style-3">
+
+        <div class="col-md-4 col-sm-6 col-xs-12 item-space">
+          <figure>
+            <img class="project-img" src="assets/images/transportation.jpg" alt="blog" />
+            <figcaption>
+              <h4>Urban Transportation</h4>
+              <span>React, React Bootstrap</span>
+              <a href="https://urban-transportation-v2.web.app/" target="_blank" class="button">Take a
+                look</a>
+            </figcaption>
+          </figure>
+        </div>
 
         <div class="col-md-4 col-sm-6 col-xs-12 item-space">
           <figure>
@@ -474,18 +563,6 @@
           </figure>
         </div>
 
-        <div class="col-md-4 col-sm-6 col-xs-12 item-space">
-          <figure>
-            <img class="project-img" src="assets/images/amazon.jpg" alt="blog" />
-            <figcaption>
-              <h4>Simple Amazon Clone</h4>
-              <span>React</span>
-              <a href="https://simple-amazon-clone-emajohn-by-abusalehfaysal.netlify.app/" target="_blank" class="button">Take a
-                look</a>
-            </figcaption>
-          </figure>
-        </div>
-
         <div class="col-xs-12">
           <div class="btn-center">
             <a data-toggle="collapse" href="#collapseFive" role="button" aria-expanded="false"
@@ -494,6 +571,18 @@
         </div>
 
         <div class="collapse" id="collapseFive">
+
+          <div class="col-md-4 col-sm-6 col-xs-12 item-space">
+            <figure>
+              <img class="project-img" src="assets/images/amazon.jpg" alt="blog" />
+              <figcaption>
+                <h4>Simple Amazon Clone</h4>
+                <span>React</span>
+                <a href="https://simple-amazon-clone-emajohn-by-abusalehfaysal.netlify.app/" target="_blank" class="button">Take a
+                  look</a>
+              </figcaption>
+            </figure>
+          </div>
 
           <div class="col-md-4 col-sm-6 col-xs-12 item-space">
             <figure>
@@ -511,7 +600,7 @@
 
       </div>
     </div>
-    <!-- Nodejs, MongoDB Project End Area -->
+    <!-- React Project End Area -->
 
     <!-- Nodejs, MongoDB Project Start Area -->
     <div class="container">
