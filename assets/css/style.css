@@ -163,12 +163,12 @@ a:hover,a:active,a:focus{
 //  02 - Header 
 /////////////////////////////////////////////////////////////////////*/
 .profile-img {
-    height: 450px;
+    height: 380px;
     display: block;
     margin-left: 131px;
     margin-right: auto;
-    width: 110%;
-    margin-top: 50px;
+    width: 120%;
+    margin-top: 70px;
     border-radius: 15px;
 }
 .profile-img-black {
