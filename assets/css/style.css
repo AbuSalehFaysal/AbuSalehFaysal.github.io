@@ -826,7 +826,7 @@ footer {
 	    top: 47%;
 	    left: 46%;
 	}
-	.profile-img {
+	/* .profile-img {
 		height: 296px;
 		display: block;
 		margin-left: auto;
@@ -834,9 +834,9 @@ footer {
 		width: 31%;
 		margin-top: 3px;
 		border-radius: 15px;
-	}
+	} */
 }
-@media all and (max-width: 380px) {
+@media all and (max-width: 420px) {
 
 
 	.logo-text {
